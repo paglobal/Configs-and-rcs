@@ -1,0 +1,4 @@
+{
+    "diagnostic.displayByAle": true,
+    "rust-analyzer.serverPath": "C:\\rust-analyzer\\rust-analyzer.exe"
+}
